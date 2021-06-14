@@ -5,3 +5,4 @@ int main ()
   cout << "Hello,Bogdan" << endl;
   return 0;
 }
+./main.out
